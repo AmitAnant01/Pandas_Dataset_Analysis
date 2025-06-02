@@ -8,6 +8,7 @@ This repository contains various data analysis projects where we performs the pa
 Analysis on multiple real-world datasets
 
 Perform the different Pandas operations like groupby(), agg(), describe() and more..
+
 Data preprocessing: handling missing values, data type conversion, and outlier treatment
 
 
@@ -16,15 +17,20 @@ Data preprocessing: handling missing values, data type conversion, and outlier t
 ## 🧪 Requirements:
 
 -Python 3.x
+
 -pandas :For Cleaning the dataset
+
 -numpy : Performing the operation on numerical dataset
+
 -matplotlib / seaborn :For Visualizing the data
+
 -Plateform : jupyter notebook
 
 
 
 ✅ Takeaway:
 -Working with pandas Dataset to enhance ananlytical skill
+
 -Beginners learning data analysis
 
 -Practice with Pandas library
