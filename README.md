@@ -16,26 +16,26 @@ Data preprocessing: handling missing values, data type conversion, and outlier t
 
 ## 🧪 Requirements:
 
--Python 3.x
+- Python 3.x
 
--pandas :For Cleaning the dataset
+- pandas :For Cleaning the dataset
 
--numpy : Performing the operation on numerical dataset
+- numpy : Performing the operation on numerical dataset
 
--matplotlib / seaborn :For Visualizing the data
+- matplotlib / seaborn :For Visualizing the data
 
--Plateform : jupyter notebook
+- Plateform : jupyter notebook
 
 
 
 ✅ Takeaway:
--Working with pandas Dataset to enhance ananlytical skill
+- Working with pandas Dataset to enhance ananlytical skill
 
--Beginners learning data analysis
+- Beginners learning data analysis
 
--Practice with Pandas library
+- Practice with Pandas library
 
--Mini projects to enhance your data portfolio
+- Mini projects to enhance your data portfolio
 
 
 ## 🙋‍♂️Author : Amit kumar
