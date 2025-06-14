@@ -5,11 +5,11 @@ This repository contains various data analysis projects where we performs the pa
 
 ## 🧰 Key Features:
 
-Analysis on multiple real-world datasets
+- Analysis on multiple real-world datasets
 
-Perform the different Pandas operations like groupby(), agg(), describe() and more..
+- Perform the different Pandas operations like groupby(), agg(), describe() and more..
 
-Data preprocessing: handling missing values, data type conversion, and outlier treatment
+- Data preprocessing: handling missing values, data type conversion, and outlier treatment
 
 
 
