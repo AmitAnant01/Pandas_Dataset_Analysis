@@ -1,7 +1,7 @@
 
 # 📊 Pandas Data Analysis 
 
-This repository contains various data analysis projects where we performs the pandas , Numpy and mlt operation for the cleaning, transforming and visualization the data into useful insights. 
+This repository contains various data analysis projects where we performs the pandas , Numpy and matplotlib operation for the cleaning, transforming and visualization the data into useful insights.Ananlyis of these dataset will be helpful to gaining the practical skills of Pandas dataset and transforming them into real world solution
 
 ## 🧰 Key Features:
 
